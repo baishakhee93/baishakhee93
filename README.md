@@ -118,7 +118,8 @@ My development experience includes applications for Android, iOS, Android TV, an
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![ADB](https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-💼 Areas of Expertise
+##💼 Areas of Expertise
+
 📱 Native Android Development
 💙 Flutter Cross-Platform Development
 📺 Android TV Applications
@@ -133,45 +134,112 @@ My development experience includes applications for Android, iOS, Android TV, an
 📲 Push Notifications
 🧪 Unit & UI Testing
 🚀 CI/CD & Application Deployment
-<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=baishakhee93&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=baishakhee93&theme=tokyonight&hide_border=true" /> </p>
-
-<p align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baishakhee93&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=baishakhee93&theme=tokyonight&no-frame=true&row=1&column=6" /> </p>
+## 📊 GitHub Statistics
 
 <p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=baishakhee93&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="Baishakhee's GitHub Stats"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=baishakhee93&theme=tokyonight&hide_border=true"
+    alt="Baishakhee's GitHub Streak"
+  />
+</p>
 
-<a href="https://linkedin.com/in/baishakhee-mardi-733b3a175"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<p align="center">
+  <img
+    width="45%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=baishakhee93&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Baishakhee's Top Languages"
+  />
+</p>
 
-<a href="mailto:baishu9534@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=baishakhee93&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"
+    alt="Baishakhee's GitHub Trophies"
+  />
+</p>
+
+---
 
 ## 🤝 Connect With Me
 
 <p align="center">
 
-<a href="https://linkedin.com/in/baishakhee-mardi-733b3a175" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+  <a href="https://linkedin.com/in/baishakhee-mardi-733b3a175" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 
-<a href="mailto:baishu9534@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+  <a href="mailto:baishu9534@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
+  </a>
 
-<a href="https://www.facebook.com/baishakhee.mahali" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
+  <a href="https://www.facebook.com/baishakhee.mahali" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+      alt="Facebook"
+    />
+  </a>
 
-<a href="https://instagram.com/baishu.93" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+  <a href="https://instagram.com/baishu.93" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
 
 </p>
 
+---
+
+## 💼 Open to Opportunities
+
+<p align="center">
+  I'm open to opportunities in
+  <b>Android Development</b>,
+  <b>Flutter Development</b>,
+  <b>Mobile Engineering</b>,
+  <b>Android TV</b>, and
+  <b>Cross-Platform Application Development</b>.
 </p>
 
-<p align="center"> <b>💡 Building reliable mobile experiences, one commit at a time.</b> </p>
+<p align="center">
+  <a href="mailto:baishu9534@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Let's_Work_Together-Contact_Me-success?style=for-the-badge"
+      alt="Contact Me"
+    />
+  </a>
+</p>
 
-<p align="center"> ⭐ From <a href="https://github.com/baishakhee93">Baishakhee Mardi</a> </p>
+---
 
+<p align="center">
+  <b>💡 Building reliable mobile experiences, one commit at a time.</b>
+</p>
 
+<p align="center">
+  <b>Android • Kotlin • Java • Flutter • Dart • Firebase</b>
+</p>
+
+<p align="center">
+  ⭐ From
+  <a href="https://github.com/baishakhee93">
+    <b>Baishakhee Mardi</b>
+  </a>
+</p>
 
