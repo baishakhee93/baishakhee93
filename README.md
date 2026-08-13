@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://baishakhee93.io)
+[![MasterHead](<img width="1600" height="600" alt="baishakhee_girl_developer_masterhead" src="https://github.com/user-attachments/assets/7a98f677-2395-4133-9e7e-fe874cabda60" />](https://baishakhee93.io)
 <h1 align="center">Hi 👋, I'm Baishakhee</h1>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Senior+Android+%26+Flutter+Developer;6%2B+Years+of+Mobile+Development;Android+%7C+Kotlin+%7C+Java+%7C+Flutter;Clean+Architecture+%7C+MVVM+%7C+Firebase;Building+Scalable+Cross-Platform+Applications" /> </p>
 
