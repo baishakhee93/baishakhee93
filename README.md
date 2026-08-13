@@ -135,27 +135,10 @@ My development experience includes applications for Android, iOS, Android TV, an
 🧪 Unit & UI Testing
 🚀 CI/CD & Application Deployment
 ## 📊 GitHub Statistics
-<p align="center">
-  <img
-    width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=baishakhee93&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Baishakhee's Most Used Languages"
-  />
-</p>
-<p align="center">
-  <img
-    width="55%"
-    src="https://github-readme-stats.vercel.app/api?username=baishakhee93&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="Baishakhee's GitHub Stats"
-  />
-</p>
+
 <p align="center">
   
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=baishakhee93&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="Baishakhee's GitHub Stats"
-  />
+
   <img
     width="49%"
     src="https://github-readme-streak-stats.herokuapp.com/?user=baishakhee93&theme=tokyonight&hide_border=true"
@@ -163,13 +146,6 @@ My development experience includes applications for Android, iOS, Android TV, an
   />
 </p>
 
-<p align="center">
- <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=baishakhee93&layout=compact&theme=tokyonight"
-/>
-</p>
-
----
 
 ## 🏆 GitHub Achievements
 
