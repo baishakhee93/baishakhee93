@@ -157,16 +157,20 @@ My development experience includes applications for Android, iOS, Android TV, an
 </p>
 
 
-## 🏆 GitHub Achievements
+## 🏅 Professional Highlights
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=baishakhee93&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"
-    alt="Baishakhee's GitHub Trophies"
-  />
-</p>
-
----
+- 📱 **7+ Years** of professional mobile application development
+- 🤖 Strong experience in **Android, Kotlin & Java**
+- 💙 Cross-platform development with **Flutter & Dart**
+- 🍎 Flutter application development for **Android & iOS**
+- 🖥️ Experience building **Windows Desktop applications with Flutter**
+- 📺 Experience developing **Android TV applications**
+- 🏗️ Strong knowledge of **MVVM & Clean Architecture**
+- 🌐 Experienced in **REST API & GraphQL API integration**
+- 🔥 Experienced with **Firebase Authentication, Realtime Database, Storage, FCM & Crashlytics**
+- 💾 Built **offline-first applications** using Room, SQLite & Hive
+- 📡 Experience with **MQTT & WebSocket real-time communication**
+- 🚀 Experience with application development, testing, deployment & Play Store release
 
 ## 🤝 Connect With Me
 
