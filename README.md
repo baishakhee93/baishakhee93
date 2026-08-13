@@ -145,7 +145,27 @@ My development experience includes applications for Android, iOS, Android TV, an
 
 <a href="mailto:baishu9534@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
-<a href="https://instagram.com/baishu.93"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/baishakhee-mardi-733b3a175" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:baishu9534@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://www.facebook.com/baishakhee.mahali" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+<a href="https://instagram.com/baishu.93" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+</p>
 
 </p>
 
