@@ -49,10 +49,7 @@ My development experience includes applications for Android, iOS, Android TV, an
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white)
 
 
-### 🔥 Backend, API & Cloud
-
-![Firebase](https://img.s### 🔥 Backend & Cloud
-
+### 🔥 Backend & Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
