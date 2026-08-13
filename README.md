@@ -118,7 +118,7 @@ My development experience includes applications for Android, iOS, Android TV, an
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![ADB](https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-##💼 Areas of Expertise
+### 💼 Areas of Expertise
 
 📱 Native Android Development
 💙 Flutter Cross-Platform Development
@@ -150,11 +150,9 @@ My development experience includes applications for Android, iOS, Android TV, an
 </p>
 
 <p align="center">
-  <img
-    width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=baishakhee93&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Baishakhee's Top Languages"
-  />
+ <img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=baishakhee93&layout=compact&theme=tokyonight"
+/>
 </p>
 
 ---
