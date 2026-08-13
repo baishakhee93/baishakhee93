@@ -1,6 +1,5 @@
 <img width="1600" height="600" alt="baishakhee_baisu9534_animated" src="https://github.com/user-attachments/assets/8c11b870-e022-40ea-8d9a-c261208ac61f" />
 
-<h1 align="center">Hi 👋, I'm Baishakhee</h1>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Senior+Android+%26+Flutter+Developer;6%2B+Years+of+Mobile+Development;Android+%7C+Kotlin+%7C+Java+%7C+Flutter;Clean+Architecture+%7C+MVVM+%7C+Firebase;Building+Scalable+Cross-Platform+Applications" /> </p>
 
 
