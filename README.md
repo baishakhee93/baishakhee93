@@ -23,50 +23,100 @@ My development experience includes applications for Android, iOS, Android TV, an
 🌱 Currently exploring React Native, PHP & advanced cross-platform technologies
 💬 Ask me about Android, Kotlin, Java, Flutter, Dart & Firebase
 📫 Reach me at baishu9534@gmail.com
-🛠️ Tech Stack
-📱 Mobile & Cross-Platform
+## 🛠️ Tech Stack
+
+### 📱 Mobile & Cross-Platform
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android TV](https://img.shields.io/badge/Android_TV-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_Desktop-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
+### 🏗️ Architecture & State Management
+
+![MVVM](https://img.shields.io/badge/MVVM-Architecture-02569B?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-Architecture-6A5ACD?style=for-the-badge)
+![MVP](https://img.shields.io/badge/MVP-Architecture-008080?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2E8B57?style=for-the-badge)
+![Riverpod](https://img.shields.io/badge/Riverpod-0553B1?style=for-the-badge&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-4285F4?style=for-the-badge&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white)
 
 
+### 🔥 Backend & Cloud
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase Cloud Messaging](https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase Storage](https://img.shields.io/badge/Firebase_Storage-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
+### 💾 Database
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Room](https://img.shields.io/badge/Room_Database-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FFCA28?style=for-the-badge&logo=flutter&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase Realtime Database](https://img.shields.io/badge/Firebase_Realtime_DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
-🏗️ Architecture & State Management
+### 🔌 Real-Time & Communication
+
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![REST](https://img.shields.io/badge/REST-API-009688?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 
+### ⚙️ Android & Flutter Technologies
+
+![Jetpack](https://img.shields.io/badge/Android_Jetpack-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![WorkManager](https://img.shields.io/badge/WorkManager-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-DI-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Dagger](https://img.shields.io/badge/Dagger-DI-2196F3?style=for-the-badge)
+![Retrofit](https://img.shields.io/badge/Retrofit-REST_API-48B983?style=for-the-badge)
+![RxJava](https://img.shields.io/badge/RxJava-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![LiveData](https://img.shields.io/badge/LiveData-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Navigation](https://img.shields.io/badge/Navigation_Component-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
+### 🧪 Testing & CI/CD
+
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-Testing-78A641?style=for-the-badge)
+![Espresso](https://img.shields.io/badge/Espresso-UI_Testing-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=for-the-badge)
 
 
+### 🧰 Development Tools
 
-
-🔥 Backend & Cloud
-
-
-
-
-
-
-
-
-💾 Database
-
-
-
-
-
-
-
-
-🔌 Real-Time & Communication
-
-
-
-
-
-🧰 Development Tools
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![ADB](https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 💼 Areas of Expertise
 📱 Native Android Development
