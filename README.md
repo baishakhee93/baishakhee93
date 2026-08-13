@@ -3,11 +3,26 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Senior+Android+%26+Flutter+Developer;6%2B+Years+of+Mobile+Development;Android+%7C+Kotlin+%7C+Java+%7C+Flutter;Clean+Architecture+%7C+MVVM+%7C+Firebase;Building+Scalable+Cross-Platform+Applications" /> </p>
 
 
-- 🌱 I’m currently learning **React Native,PHP**
+👩‍💻 About Me
 
-- 💬 Ask me about **Android,Java,Kotlin,Flutter,**
+I'm a Senior Android & Flutter Developer from India 🇮🇳 with 6+ years of experience building scalable, high-performance mobile and cross-platform applications.
 
-- 📫 How to reach me **baishu9534@gmail.com**
+I specialize in Android, Flutter, Kotlin, Java, Dart, Firebase, REST APIs, offline-first applications, real-time communication, and Clean Architecture.
+
+My development experience includes applications for Android, iOS, Android TV, and Windows Desktop, with a strong focus on maintainable architecture, performance, security, and user experience.
+
+🔭 Building scalable Android & Flutter applications
+📱 Experienced with Android, iOS, Android TV & Windows Desktop
+🏗️ Architecture: MVVM, MVC, MVP & Clean Architecture
+🔥 Firebase: Authentication, Realtime Database, Storage, FCM & Crashlytics
+💾 Local Storage: Room, SQLite & Hive
+🌐 APIs: REST, GraphQL, WebSocket & MQTT
+⚡ Background Processing: WorkManager & Coroutines
+🧪 Testing: JUnit, Mockito & Espresso
+🚀 CI/CD and Git-based development workflows
+🌱 Currently exploring React Native, PHP & advanced cross-platform technologies
+💬 Ask me about Android, Kotlin, Java, Flutter, Dart & Firebase
+📫 Reach me at baishu9534@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
